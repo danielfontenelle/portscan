@@ -7,13 +7,8 @@ N = nmap.PortScanner()
  
  
 alvo = raw_input("IP ou URL exemplo:[www.google.com]: ")
-porta1 = raw_input("[1] Para escanear as principais portas, ou [2] para especificar a porta desejada, escolha uma option: ")
-if not (porta1 == 1):
-      porta = '20,80,22,23,25,53,67,68,110,123,135,156,143,161,179,443,445,1723,1863,3128,3389'
-else:
-      porta = raw_input("Porta desejada: ")
-      
-      
+porta = '20,80,22,23,25,53,67,68,110,123,135,156,143,161,179,443,445,1723,1863,3128,3389'
+
 N.scan(alvo, porta)
 
 
