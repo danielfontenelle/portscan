@@ -10,4 +10,8 @@ Tutorial:
 
 Script criado em Python, com ele você vai ter maiores facilidades para fazer escaneamento de portas e fugir dos comandos utilizados no NMAP. 
 
+
+comando: python PortScanner.py
+
+
 Futuras atualizações vem por aí!
