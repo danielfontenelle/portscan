@@ -1,6 +1,6 @@
 Script criado para automatizar o tempo gasto digitando linhas de comandos.
 
-Menu com 2 opção, [0] para escaneamento de portas automaticamente e [2] para especificar a porta desejada 
+Menu com 2 opção, [1] para escaneamento de portas automaticamente e [2] para especificar a porta desejada 
  
 
 Necessário instalar o pacote do nmap.
