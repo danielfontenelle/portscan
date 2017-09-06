@@ -1,0 +1,13 @@
+Script criado para automatizar o tempo gasto digitando linhas de comandos.
+
+Menu com 2 opção, [0] para escaneamento de portas automaticamente e [2] para especificar a porta desejada 
+ 
+
+Necessário instalar o pacote do nmap.
+Tutorial:
+ No Linux, ubuntu, etc...: sudo apt-get install python-nmap 
+ No Windows ou linux que utiliza o pip: pip install python-nmap
+
+Script criado em Python, com ele você vai ter maiores facilidades para fazer escaneamento de portas e fugir dos comandos utilizados no NMAP. 
+
+Futuras atualizações vem por aí!
